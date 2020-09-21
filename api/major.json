@@ -1,0 +1,34 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 5,
+  "data": [
+    {
+      "id": 1,
+      "dname": "计算机科学与技术",
+      "createTime": "2018-10-12",
+      "remark": "备注"
+    },{
+      "id": 2,
+      "dname": "软件工程",
+      "createTime": "2018-10-12",
+      "remark": "备注"
+    },{
+      "id": 3,
+      "dname": "物联网工程",
+      "createTime": "2018-10-12",
+      "remark": "备注"
+    },{
+      "id": 4,
+      "dname": "网络工程",
+      "createTime": "2018-10-12",
+      "remark": "备注"
+    },{
+      "id": 5,
+      "dname": "智能科学与技术",
+      "createTime": "2018-10-12",
+      "remark": "备注"
+    }
+
+  ]
+}

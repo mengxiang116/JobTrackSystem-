@@ -1,0 +1,58 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 5,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "计算机科学与技术",
+      "cno": "1",
+      "period": "2017",
+      "joinDate": "2017-9-2",
+      "num": "40",
+      "classTeacher": "张小花",
+      "instructor": "李小草"
+    },
+    {
+      "id": 2,
+      "majorName": "软件工程",
+      "cno": "2",
+      "period": "2017",
+      "joinDate": "2017-9-2",
+      "num": "40",
+      "classTeacher": "王美丽",
+      "instructor": "李小草"
+    },
+    {
+      "id": 3,
+      "majorName": "物联网工程",
+      "cno": "3",
+      "period": "2017",
+      "joinDate": "2017-9-2",
+      "num": "40",
+      "classTeacher": "孟小艾",
+      "instructor": "李小草"
+    },
+    {
+      "id": 4,
+      "majorName": "网络工程",
+      "cno": "4",
+      "period": "2017",
+      "joinDate": "2017-9-2",
+      "num": "40",
+      "classTeacher": "孙小青",
+      "instructor": "李小草"
+    },
+    {
+      "id": 5,
+      "majorName": "智能科学与技术",
+      "cno": "5",
+      "period": "2017",
+      "joinDate": "2017-9-2",
+      "num": "40",
+      "classTeacher": "马小果",
+      "instructor": "李小草"
+    }
+
+  ]
+}
